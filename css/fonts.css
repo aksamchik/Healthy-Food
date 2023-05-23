@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'helveticaneuecyr';
+    src: url(../fonts/HelveticaNeueCyr-Roman.ttf)format('truetype');
+    font-family: 400;
+}
+@font-face {
+    font-family: 'helveticaneuecyr';
+    src: url(../fonts/helveticaneuecyr-bold.ttf)format('truetype');
+    font-family: 700;
+}
+@font-face {
+    font-family: 'helveticaneuecyr';
+    src: url(../fonts/HelveticaNeueBlackCondensed.ttf)format('truetype');
+    font-family: 900;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Light.ttf)format('truetype');
+    font-family: 300;
+}
